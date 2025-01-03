@@ -47,7 +47,7 @@
 	<!--In case you want to use nape with flixel-->
 	<haxelib name="nape-haxe4" version="2.0.22" />
 	
-    <haxelib name="flxanimate" version="3.0.4" />
+    <haxelib name="flxanimate" version="git" />
 
 	<!-- ______________________________ Haxedefines _____________________________ -->
 	
