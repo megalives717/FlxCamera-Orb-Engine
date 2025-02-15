@@ -1,8 +1,8 @@
 # Batchfile
 APIStuff.hx
-art/buildScripts/build_x32-officialrelease.bat
-art/buildScripts/build_x64-officialrelease.bat
-art/buildScripts/test_x64-debug-officialrelease.bat
+haxelib.bat
+build-windows.bat
+build-html5.bat
 
 ### VS Code
 export/*
@@ -22,5 +22,3 @@ vs_Community.exe
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-art/build_html.bat
-art/build_html-debug.bat
