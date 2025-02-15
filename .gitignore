@@ -1,8 +1,7 @@
 # Batchfile
-APIStuff.hx
-haxelib.bat
-build-windows.bat
-build-html5.bat
+setup/haxelib.bat
+setup/build-windows.bat
+setup/build-html5.bat
 
 ### VS Code
 export/*
